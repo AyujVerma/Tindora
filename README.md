@@ -1,4 +1,4 @@
-# Tindora
+# Tindora: "Swipe Right and Take a Bite!"
 Tindora is designed to simplify meal planning for college students while addressing food waste. By offering personalized meal recommendations based on the ingredients you have, Tindora makes cooking both enjoyable and sustainable!
 
 # Features
